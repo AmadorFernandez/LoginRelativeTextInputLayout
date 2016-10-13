@@ -28,6 +28,9 @@ public class LoginActivity extends AppCompatActivity implements IloginMVP.View {
     private CheckBox chkRemenber;
     private static final String TAG = "LoginActivity";
 
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
